@@ -17,4 +17,4 @@ Table of contents:
 5. Project Report
 
 Project is done as a deliverable during the short-course:
-Data Analytics 2024 Cohort 2 by Peoplelogy
+Data Science Analytics 2024 Cohort 2 by Peoplelogy
