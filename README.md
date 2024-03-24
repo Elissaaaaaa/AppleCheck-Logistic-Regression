@@ -1,13 +1,13 @@
 # AppleCheck: Logistic Regression
 
 A repository that contains the files related to a logistic regression model
-that predicts the quality of apples, using pre-existing datas.
+that predicts the quality of apples, using pre-existing data.
 
 Data of apples can be found in the apple_quality.csv file,
-whereby datas are retrieved from kaggle.com
+whereby data are retrieved from kaggle.com
 Data source: https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
 
-Dataset contains 4000rows x 7 columns
+Dataset contains 4000 rows x 7 columns
 
 Table of contents:
 1. 1_CrispDM
