@@ -14,6 +14,7 @@ Table of contents:
 2. 2_Preprocessing & EDA
 3. 3_Modelling
 4. Slide Format: AppleCheck Business Pitch
+5. Project Report
 
 Project is done as a deliverable during the short-course:
 Data Analytics 2024 Cohort 2 by Peoplelogy
